@@ -1,0 +1,22 @@
+{
+  "name": "@crr257/random_jokes",
+  "version": "1.0.0",
+  "description": "package to cheer you up",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRR257/npm_random_jokes.git"
+  },
+  "author": "CRR257",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRR257/npm_random_jokes/issues"
+  },
+  "homepage": "https://github.com/CRR257/npm_random_jokes#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
