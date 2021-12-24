@@ -1,5 +1,5 @@
 # random_jokes
-npm package to cheer you up 🔝_🔝
+npm package to cheer you up
 https://www.npmjs.com/package/@crr257/random_jokes
 
 ## Installation
