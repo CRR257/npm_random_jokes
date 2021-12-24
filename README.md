@@ -1,11 +1,11 @@
-# npm_random_jokes
-package to cheer you up
+# random_jokes
+npm package to cheer you up 🔝_🔝
 https://www.npmjs.com/package/@crr257/random_jokes
 
 ## Installation
 
 ```
-npm install awesome-npm
+npm install npm i @crr257/random_jokes
 ```
 
 ## Usage
