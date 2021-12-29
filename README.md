@@ -5,7 +5,7 @@ https://www.npmjs.com/package/@crr257/random_jokes
 ## Installation
 
 ```
-npm install npm i @crr257/random_jokes
+npm i @crr257/random_jokes
 ```
 
 ## Usage
